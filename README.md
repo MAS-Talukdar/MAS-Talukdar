@@ -1,4 +1,3 @@
-
 ---
 
 ## 👋 Hi! I'm **MD Abu Sufian Talukdar**,
@@ -30,11 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAS-Talukdar&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
 </p>
 
-
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAS-Talukdar&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
